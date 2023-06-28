@@ -1,0 +1,1 @@
+print("it nice day")
